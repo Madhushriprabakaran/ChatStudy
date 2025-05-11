@@ -102,7 +102,9 @@ s.send
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/1c02ddf8-4f9f-49fb-9192-dd6b1e2e9a1a)
+
+![image](https://github.com/user-attachments/assets/f789de01-7fcd-434d-abd7-fa16986e1454)
+
 
 
 
